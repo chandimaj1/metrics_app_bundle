@@ -1,10 +1,11 @@
 #Create sample metric names
-#MetricName.create({title: "Metric A"})
-#MetricName.create({title: "Metric B"})
-#MetricName.create({title: "Metric C"})
-#MetricName.create({title: "Metric D"})
-#MetricName.create({title: "Metric E"})
+MetricName.create({title: "Metric A"})
+MetricName.create({title: "Metric B"})
+MetricName.create({title: "Metric C"})
+MetricName.create({title: "Metric D"})
+MetricName.create({title: "Metric E"})
 
+#Create sample metrics
 for i in 0...200
     metric_name_id = Faker::Number.between(from: 1, to: 4)
     value = Faker::Number.between(from: 0, to: 100)
