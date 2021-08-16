@@ -7,6 +7,7 @@ _Developer: Chandima Jayasiri (chandimaj@icloud.com)_
 ## Content
 
 This repo contains two versions of the front end apps created using React Material UI framework
+[link to online demo](https://metricsapp-factorial.web.app/)
 <br>
 <br>
 
@@ -17,9 +18,10 @@ This repo contains two versions of the front end apps created using React Materi
 #### React Application
 
 1. Copy the `metrics_reactapp_onrails` folder
-2. Start the node server `npm start` or `yarn start`
-3. The app should be accessible at the default generated url
-4. To connect with the services api, modify api_host url at `metrics_reactapp_onrails/src/Settings/apiSettings.js`
+2. Install required node modules `npm install`
+3. Start the node server `npm start` or `yarn start`
+4. The app should be accessible at the default generated url
+5. To connect with the services api, modify api_host url at `metrics_reactapp_onrails/src/Settings/apiSettings.js`
 
 #### Backend Api service Rails app
 
