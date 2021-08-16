@@ -1,13 +1,13 @@
 # Metrics App
 _Developer: Chandima Jayasiri (chandimaj@icloud.com)_
-
+<br>[link to online demo](https://metricsapp-factorial.web.app/)
 <br>
 <br>
 
 ## Content
 
 This repo contains two versions of the front end apps created using React Material UI framework
-[link to online demo](https://metricsapp-factorial.web.app/)
+
 <br>
 <br>
 
